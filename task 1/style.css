@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+h2 { 
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100%;
+    color: #4B4B4B;
+}
+p {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #737373;
+}
+img {
+    margin-left: 17%;
+    margin-top: 18%;
+}
+.div1 {
+    border-radius: 0px 0px 0px  50px;
+    background-color: #FAF4EF;
+    padding: 46px;
+    height: 420px;
+    width: 366px;
+    margin-top: 10%;
+    margin-left: 37%
+}
